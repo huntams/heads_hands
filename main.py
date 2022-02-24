@@ -17,4 +17,4 @@ def rand_massive(n):
 
 
 if __name__ == '__main__':
-    rand_massive(4)
+    print(rand_massive(4))
